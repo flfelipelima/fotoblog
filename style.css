@@ -123,6 +123,7 @@ main h1 {
   object-fit: cover;
   transition-property: transform;
   transition-duration: 1s;
+  display: block;
 }
 
 .item img:hover {
